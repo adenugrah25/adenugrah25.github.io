@@ -52,7 +52,7 @@ h1, h2, h3, h4{
 
 .hobby {
     width: 284px !important;
-    height: 229px !important;
+    height: 180px !important;
 	background-color: #42B883 !important;
     border: none;
     box-shadow: 14px 10px 0px -1px rgba(0,0,0,1);
@@ -61,11 +61,11 @@ h1, h2, h3, h4{
 
 .education {
     width: 705px !important;
-    height: 229px !important;
+    height: 180px !important;
 	background-color: #5c2a9d !important;
     border: none;
     box-shadow: 14px 10px 0px -1px rgba(0,0,0,1);
-	background-color: #EA907A;
+	background-color: #848ccf !important;
 }
 
 .workexperience {
@@ -131,7 +131,7 @@ ul {
 .aboutli {
     font-size: 2vw;
     text-align: start;
-    width: 75%;
+    width: 100%;
     max-width: 100% !important;
 }
 
